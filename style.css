@@ -1,0 +1,41 @@
+h1{
+font-size: 80px;
+text-align: center;
+color: rgb(228, 0, 159)
+}
+
+h2{
+font-size: 40px;
+text-align: left;
+color: rgb(0, 95, 158)
+}
+h3{
+font-size: 20px;
+text-align: left;
+color: rgba(0, 0, 0, 0.747)
+font-family: times;
+}
+
+p{
+font-size: 17px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+
+titre2{
+font-size: 30px;
+text-align: center;
+color: rgba(202, 0, 10, 0.76);
+font-family: Helvetica, sans-serif;
+font-weight: bold; 
+font-style: italic;
+text-align: center;
+}
+
+body {
+background-color: rgba(17, 17, 17, 0.068);
+margin-top: 70px;
+margin-right: 70px;
+margin-bottom: 70px;
+margin-left: 70px;
+}
